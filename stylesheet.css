@@ -12,40 +12,40 @@ img{
 }
 #herosection{
     text-align: center;
-    background-color: #d3d7fc; /* Background color */
-  border-radius: 5px; /* Rounded corners */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Box shadow for depth */
-  margin-bottom: 20px; /* Spacing between projects */
+    background-color: #d3d7fc; 
+  border-radius: 5px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  margin-bottom: 20px;
   padding: 10px; 
 
 }
 #about{
-    background-color: #d3d7fc; /* Background color */
-  border-radius: 5px; /* Rounded corners */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Box shadow for depth */
-  margin-bottom: 20px; /* Spacing between projects */
+    background-color: #d3d7fc; 
+  border-radius: 5px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  margin-bottom: 20px; 
   padding: 10px; 
 }
 #introduction{
-    background-color: #d3d7fc; /* Background color */
-  border-radius: 5px; /* Rounded corners */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Box shadow for depth */
-  margin-bottom: 20px; /* Spacing between projects */
+    background-color: #d3d7fc; 
+  border-radius: 5px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  margin-bottom: 20px; 
   padding: 10px; 
 }
 .project{
-    background-color: #d3d7fc; /* Background color */
-  border-radius: 5px; /* Rounded corners */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Box shadow for depth */
-  margin-bottom: 20px; /* Spacing between projects */
+    background-color: #d3d7fc; 
+  border-radius: 5px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  margin-bottom: 20px; 
   padding: 10px; 
 
 }
 .Hobbies{
-    background-color: #d3d7fc; /* Background color */
-    border-radius: 5px; /* Rounded corners */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Box shadow for depth */
-    margin-bottom: 20px; /* Spacing between projects */
+    background-color: #d3d7fc;
+    border-radius: 5px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    margin-bottom: 20px; 
     padding: 10px; 
 
 }
